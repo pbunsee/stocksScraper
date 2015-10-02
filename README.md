@@ -1,6 +1,6 @@
 #HTML scraper written in Python
 
-##Disclaimer: 
+##Disclaimer 
 This is not performant code for large dataset scraping nor for multiple websites scraping.
 There are better tools to do web scraping, like BeautifulSoup, Selenium, LXML, ...  
 This code was meant purely for learning the basics of web scraping with Python.
