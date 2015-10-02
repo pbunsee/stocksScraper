@@ -1,7 +1,7 @@
 import urllib
 import re
 
-symbolslist = ["aapl","spy"]
+symbolslist = ["tibx","aapl","spy"]
 
 i=0
 while i < len(symbolslist):
